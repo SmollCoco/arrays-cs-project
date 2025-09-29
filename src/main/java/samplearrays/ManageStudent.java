@@ -1,3 +1,4 @@
+/*
 package samplearrays;
 
 import java.util.Arrays;
@@ -94,4 +95,4 @@ public class ManageStudent {
 
     }
 }
-
+*/
