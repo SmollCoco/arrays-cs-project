@@ -1,4 +1,4 @@
-package main.java.samplearrays;
+package samplearrays;
 
 public class DogShelter {
     // initialize an array of 3
